@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
+
+
+
+.navheader{
+    margin-left: auto;
+    
+}
+.luminar h2{
+    color: #5e068a;
+}
+span{
+    opacity: 0.5;
+}
+.luminar p{
+    line-height: 28px;
+    
+    
+}
+.luminar button{
+    background-color:#5e068a; 
+    border: 2px solid #5e068a; 
+    color: white;
+    border-radius: 30px;
+    padding: 18px;
+    padding-right: 25px;
+    font-weight: bold;
+}
+.luminar button:hover{
+    background-color: white;
+    color: #5e068a; 
+    transition: 0.5s;
+}
+
+/* COURSES */
+.courserow{
+    background-color: #f5f5f5;
+
+}
+.cs h4{
+    color: #5e068a;
+
+}
+.crscard{
+    width: 160%;
+}
+.crscard h4{
+    color: #5e068a;
+    font-size: large;
+}
+.crscard p{
+    font-size: medium;
+    font-weight: 300;
+    
+}
+.align{
+    display: flex;
+}
+.align h6{
+    margin-left: 10px;
+}
+.align a{
+    color: #5e068a;
+}
+.crscard:hover{
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transition: 0.5s;
+
+}
+
+/* OTHER CARD */
+.OSCARD h6{
+    color: #5e068a;
+}
+.OSCARD p{
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+.viewbtn{
+    background-color: #5e068a;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    border: none;
+}
+.OSCARD:hover{
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transition: 0.5s;
+
+}
+.allcrsbtn{
+    color:#5e068a ;
+    border: 1px solid #5e068a;
+    background-color: white;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 25px 25px 25px 25px;
+    margin-left: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
